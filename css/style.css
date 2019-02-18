@@ -265,9 +265,22 @@ section a {
 }
 
 .shadow {
-  width 33%;
+  width:31%;
+ display: inline-block;
+ 
 }
 
+.small {
+  width:100%;
+}
+
+.med {
+  width:200%;
+}
+
+.large {
+  width:300%;
+}
 
 /********** Details **********/
 
