@@ -264,6 +264,11 @@ section a {
   text-decoration: underline;
 }
 
+.shadow {
+  width 33%
+}
+
+
 /********** Details **********/
 
 #details {
