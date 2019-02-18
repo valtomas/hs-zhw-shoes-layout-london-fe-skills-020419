@@ -264,7 +264,7 @@ section a {
   text-decoration: underline;
 }
 
-.column {
+.shadow .column {
   width:31%;
  display: inline-block;
 }
